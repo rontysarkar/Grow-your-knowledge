@@ -14,9 +14,7 @@ const Blogs = () => {
 
     return (
         <div>
-            {
-              
-            }
+            <h3>blog</h3>
         </div>
     );
 };
