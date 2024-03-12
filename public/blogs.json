@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/tCftLbk/rear-view-businesswoman-working-home-office.jpg",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "author_img": "https://i.ibb.co/f2ZYFbD/pexels-furkanfdemir-7080673.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 30,
+      "hashtag": "#ClassicReads"
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/JRpPYms/pexels-markus-spiske-177598.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_img": "https://i.ibb.co/YBGp7XZ/pexels-sam-lion-6001388.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 45,
+      "hashtag": "#LiteraryMasterpieces"
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/FH7hGVw/pexels-cottonbro-studio-4709285.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "https://i.ibb.co/x7xxy3N/pexels-ketut-subiyanto-4559961.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 55,
+      "hashtag": "#AmericanClassics"
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/BqNNdLp/pexels-cottonbro-studio-5052851.jpg",
+      "title": "1984",
+      "author": "George Orwell",
+      "author_img": "https://i.ibb.co/r2G3Yt7/pexels-michael-burrows-7148030.jpg",
+      "posted_date": "2024-03-06",
+      "reading_time": 40,
+      "hashtag": "#DystopianFiction"
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co/GsMdsrQ/pexels-cottonbro-studio-5077047.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "https://i.ibb.co/f0dkGNv/pexels-koolshooters-6980540.jpg",
+      "posted_date": "2024-03-04",
+      "reading_time": 50,
+      "hashtag": "#RomanticClassics"
+    }
+  ]
+  
